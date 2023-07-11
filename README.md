@@ -1,7 +1,7 @@
 ![Masterhead](https://cdn.mindbowser.com/wp-content/uploads/2020/10/28095515/A-Step-By-Step-Guide-To-Mobile-App-Development-02.svg)
 
 <h1 align="center">Hi 👋, I'm Arghya Bera</h1>
-<h3 align="center">A passionate Android Developer</h3>
+<h3 align="center">A Passionate Android Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghyabera&label=Profile%20views&color=0e75b6&style=flat" alt="arghyabera" /> </p>
 
